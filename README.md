@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**JoelErnesto/JoelErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joel, and I'm a passionate Computer Engineering student with a keen interest in technology and innovation. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Currently pursuing a degree in Computer Engineering
+- 💻 Enthusiastic about software development, algorithms, and problem-solving
+- 🌱 Always eager to learn and explore new technologies
+- 📚 Constantly expanding my knowledge in computer science and engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Java, Kotlin
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** SQL
+- **Frameworks & Tools:** Git, Docker
+- **Operating Systems:** Windows, Linux
